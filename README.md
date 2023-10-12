@@ -5,8 +5,8 @@
 - JavaScript
 - TypeScript
 - React
-
-
+- MongoDb
+- ExpressJS
 
 
 
